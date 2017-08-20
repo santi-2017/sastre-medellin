@@ -1,0 +1,27 @@
+*{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.fa-circle{
+  color: red;
+  vertical-align: middle;
+}
+.display-6{
+  font-size: 1.9em;
+}
+
+
+.container-fluid{
+  background: rgb(23, 144, 255);
+  height: 100px;
+}
+
+.container-fluid p{
+  color: black;
+  text-transform: uppercase;
+}
+
+.container-fluid address{
+  color: orange;
+  text-transform: uppercase;
+}
